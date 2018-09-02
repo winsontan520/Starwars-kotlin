@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#fec92e</color>
+
+    <color name="bgPrimary">#000000</color>
+    <color name="appbar_title">#fec92e</color>
+
+    <color name="weight_listing_delete">#ff0000</color>
+    <color name="weight_listing_date">#ffffff</color>
+    <color name="weight_listing_date_bg">#0099cc</color>
+    <color name="weight_listing_weight">#000000</color>
+    <color name="weight_listing_weight_bg">#ffff00</color>
+
+    <color name="people_detail_add_text">#000000</color>
+    <color name="people_detail_add_bg">#ffffff</color>
+    <color name="people_detail_new_weight_text">#000000</color>
+    <color name="people_detail_new_weight_bg">#ffff00</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Starwars</string>
+    <string name="people_listing_title">STAR MASS</string>
+    <string name="last_updated">Last Update : %s</string>
+    <string name="delete">Delete</string>
+    <string name="people_detail_new_weight_hint">New Weight 0.0 KG</string>
+    <string name="people_detail_add">ADD</string>
+</resources>
